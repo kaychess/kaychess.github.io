@@ -19,8 +19,8 @@ https://www.linkedin.com/learning/programming-foundations-object-oriented-design
   - One object different from its own object.
     - eg: say, one mug can be full, other can be empty, they both come under object mug. But each have their own characteristics.
 
-    - One object different from other object.
-      - eg: say, a mug object is completely different from a person object.
+  - One object different from other object.
+    - eg: say, a mug object is completely different from a person object.
 
 - **Attributes**
   - are characteristics an object will commonly have.
@@ -41,6 +41,8 @@ https://www.linkedin.com/learning/programming-foundations-object-oriented-design
         etc 
 
     ringing, climbing are verbs and they are **behaviors** while person, mug are nouns they are **objects**
+
+#### Gist
 
 ![Gist]({{ site.url }}/assets/images/posts/Object_Oriented_ADP_notes/Objects.png)
 
