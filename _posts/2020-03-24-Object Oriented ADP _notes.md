@@ -43,10 +43,9 @@ https://www.linkedin.com/learning/programming-foundations-object-oriented-design
 
     ringing, climbing are verbs and they are **behaviors** while person, mug are nouns they are **objects**
 
-
-
-#### Visual Gist
-
-![Visual Gist]({{ site.url }}/assets/images/posts/Object_Oriented_ADP_notes/Objects_classes_visual_gist.png)
+**Visual Gist**
+![Visual Gist]{{ site.url }}/assets/images/posts/Object_Oriented_ADP_notes/Objects_classes_visual_gist.png)
 
 ## Classes
+
+-- coming soon
