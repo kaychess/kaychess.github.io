@@ -47,6 +47,6 @@ https://www.linkedin.com/learning/programming-foundations-object-oriented-design
 
 <!-- #### Visual Gist -->
 
-![Visual Gist]({{ site.url }}/assets/images/posts/Object_Oriented_ADP_notes/Objects.png)
+![Visual Gist]({{ site.url }}/assets/images/posts/Object_Oriented_ADP_notes/Objects_classes_visual_gist.png)
 
 ## Classes
